@@ -1,0 +1,10 @@
+﻿body {
+    font-family:'Times New Roman', Times, serif;
+}
+
+label{
+    font-size: 16px;
+    color: darkgreen;
+    width: 50px;
+    display: inline-block;
+}
